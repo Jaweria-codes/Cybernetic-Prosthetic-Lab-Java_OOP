@@ -1,5 +1,6 @@
 import java.util.Stack;
 import java.util.Scanner;
+//Project Partners: Maria Yousif, Jaweria Yousif 
 
 abstract class prostheticLimb {
     private String name;
